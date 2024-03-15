@@ -1,0 +1,14 @@
+.c1{
+    height: 500px;
+    width: 400px;
+    font-size: 15px;
+    color: rgb(209, 243, 243);
+    padding: 15px;
+    border: 15px dotted rgb(120, 245, 151);
+    background-color: rgb(102, 39, 161);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    /* background-clip: padding-box; */
+    /* background-clip: content-box; */
+}

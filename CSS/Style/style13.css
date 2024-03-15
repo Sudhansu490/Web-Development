@@ -1,0 +1,10 @@
+.c1{
+    height: 700px;
+    width: 700px;
+    /* background-image: radial-gradient(red,black); */
+    /* background-image: radial-gradient(violet,blueviolet,blue,green,yellow,orange,red); */
+    /* background-image: radial-gradient(red,blue,green); */
+    /* background-image: radial-gradient(red,blue,green); */
+    background-image: repeating-radial-gradient(red 10%,blue 20%);
+    border-radius: 100%;
+}

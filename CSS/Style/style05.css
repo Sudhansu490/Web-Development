@@ -1,0 +1,19 @@
+/* Desendent selector */
+/* .c1 p{
+    background-color: coral;
+} */
+
+/* Child selector */
+/* div > p{
+    background-color: aqua;
+} */
+
+/* General Sibling Selector */
+/* p~h2{
+    background-color: chartreuse;
+} */
+
+/* Adjacent Sibling Selector */
+p+h2{
+    background-color: crimson;
+}

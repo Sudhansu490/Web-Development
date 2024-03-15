@@ -1,0 +1,23 @@
+/* Convert Block to Inline */
+/* h1{
+    background-color: coral;
+    display: inline;
+} */
+
+/* Convert inline to block */
+/* span{
+    display: block;
+    background-color: red;
+} */
+
+/* inline block */
+div{
+    color: rgb(253, 151, 151);
+    border: 3px solid rgb(243, 24, 188);
+    background-color: rgb(18, 121, 18);
+    padding: 10px;
+    margin: 5px;
+    height: 125px;
+    width: 25%;
+    display: inline-block;
+}

@@ -1,0 +1,51 @@
+/* Example 1 */
+div{
+    height: 100px;
+    width: 100px;
+    font-size: 30px;
+    text-align: center;
+    color: azure;
+}
+.box1{
+    background-color: rgb(135, 52, 7);
+    visibility: visible;
+}
+.box2{
+    background-color: rgb(139, 147, 28);
+    /* visibility: hidden; */
+    /* display: none; */
+    visibility: collapse;  #behaves like 'hidden' 
+}
+.box3{
+    background-color: rgb(17, 96, 8);
+}
+.box4{
+    background-color: rgb(41, 14, 116);
+}
+.box5{
+    background-color: rgb(98, 12, 79);
+}
+
+/* Example 2 */           
+#r3{
+    visibility: collapse;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+.container{
+    border: 2px solid red;
+    background-color: antiquewhite;
+    width: 500px;
+    height: 500px;
+    /* overflow: visible;  #byDefault */
+    /* overflow: hidden;  #delete extra texts */
+    /* overflow: auto; */
+    /* overflow: scroll; */
+    /* overflow-x: hidden; */
+    overflow-y: scroll;
+}

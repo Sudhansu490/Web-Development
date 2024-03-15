@@ -1,0 +1,11 @@
+.img1{
+    filter: brightness(125%);
+}
+.img2{
+    /* filter: grayscale(100%); */
+    filter: opacity(.7);
+}
+.img3{
+    /* filter: sepia(100%); */
+    filter: invert(1);
+}

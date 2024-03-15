@@ -1,0 +1,25 @@
+/* Background Colour */
+/* .c1{
+    background-color: rgb(81, 228, 228); 
+    background-image: linear-gradient(150deg,rgb(238, 149, 164),rgb(35, 245, 35)); 
+} */
+
+/* Background Image */
+/* .c2{
+    height: 500px;
+    width: 600px;
+    background-image: linear-gradient(45deg,rgba(209, 6, 216, 0.3),rgba(85, 255, 18, 0.4)),
+    url("/CSS/images/man.jfif");
+    background-size: cover; 
+} */
+
+/* Background Repeat */
+/* .c3{
+    height: 500px;
+    background-image: url("/CSS/images/Small_Ball.jfif");
+    /* background-repeat: no-repeat; */
+    /* background-repeat: space; */
+    /* background-repeat: round; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+} */

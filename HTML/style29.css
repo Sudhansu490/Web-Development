@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+aside{
+    background-image: linear-gradient(90deg,rgb(90, 7, 79),rgb(26, 94, 26));
+    float: left;
+    padding: 3px;
+    height: 100vh;
+}    
+
+a{
+    color: white;
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 1s0px;
+}
+
+a:hover{
+    background-color: rgb(240, 102, 22);
+    border-radius: 10px;
+}

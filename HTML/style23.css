@@ -1,0 +1,29 @@
+div{
+    padding: 10px;
+    margin: 3px;
+    width: 30%;
+    text-align: center;
+    display: inline-block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#div1{
+    background-image: linear-gradient(90deg,rgb(247, 201, 117),rgb(192, 241, 11));
+}
+
+#div2{
+    background-image: linear-gradient(90deg,rgba(247, 126, 146, 0.877),rgb(15, 255, 15));
+}
+
+#div3{
+    background-image: linear-gradient(90deg,rgb(247, 175, 127),rgba(243, 20, 195, 0.685));
+}
+
+button{
+    background-image: linear-gradient(45deg,rgb(173, 10, 10),rgb(25, 25, 192),rgb(21, 180, 21));
+    color: white;
+    width: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+}

@@ -1,0 +1,16 @@
+.c1{
+    height: 500px;
+    width: 400px;
+    background-color: coral;
+    font-size: 15px;
+    color: teal;
+    padding: 15px;
+    border: 15px dotted rgb(38,243,89);
+    background-image: url("/CSS/images/man.jfif");
+    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-origin: content-box; */
+    /* background-origin: padding-box; */
+    /* background-origin: border-box; */
+}

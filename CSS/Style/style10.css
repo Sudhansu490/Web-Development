@@ -1,0 +1,19 @@
+.c1{
+    background-color: darkgray;
+    height: 700px;
+    background-image: url("/CSS/images/Ball-PNG-File.png");
+    background-repeat: no-repeat;
+    /* background-position: top right; */
+    /* background-position: top left; */
+    /* background-position: top center; */
+    /* background-position: center; */
+    /* background-position: center right; */
+    /* background-position: center left; */
+    /* background-position: bottom right; */
+    /* background-position: bottom left; */
+    /* background-position: bottom center; */
+    /* background-position: 10% 30%; */
+    /* background-position: 50px 160px; */
+    /* background-position: bottom 20px right 120px; */
+    /* background-position: top 20px right 120px; */
+}

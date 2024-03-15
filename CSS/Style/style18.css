@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* .c1{
+    border: 2px solid red;
+    width: 25%;
+} */
+
+/* .parent{
+    border: 3px solid black;
+    background-color: beige;
+    width: 50%;
+}
+.child{
+    border: 2px solid gray;
+    background-color: aquamarine;
+    width: 10%;
+} */
+
+/* .container{
+    background-color: antiquewhite;
+    border: 2px solid saddlebrown;
+    height: 100vh;
+    width: 50vw;
+} */
+
+/* .c2{
+    border: 2px solid navy;
+    font-size: 100px;
+    width: 50%;
+} */
+
+/* .box1{
+    font-size: 10px;
+}
+.box2{
+    font-size: 10em;
+} */
+
+.para{
+    border: 1px solid black;
+    font-size: 5rem;
+}

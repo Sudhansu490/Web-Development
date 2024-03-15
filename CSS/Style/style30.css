@@ -1,0 +1,15 @@
+.box{
+    height: 250px;
+    width: 250px;
+    background-color: bisque;
+    cursor: pointer;
+    /* cursor: progress; */
+    /* cursor:auto; */
+    /* cursor: copy; */
+    /* cursor: default; */
+    /* cursor: help; */
+    /* cursor: move; */
+    /* cursor: zoom-in; */
+    /* cursor: zoom-out; */
+    /* cursor: text; */
+}

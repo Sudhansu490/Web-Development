@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: blue;
+}
+.box{
+    height: 12vh;
+    width: 6vw;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    animation: animateX 3s linear infinite , animateY 3s ease-out infinite alternate;
+}
+@keyframes animateX {
+    from{
+        right: 0%;
+    }
+    to{
+        left: 94%;
+    }
+}
+@keyframes animateY {
+    from{
+        bottom: 0%;
+    }
+    to{
+        bottom: 90%;
+    }
+}

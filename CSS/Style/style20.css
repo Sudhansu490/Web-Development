@@ -1,0 +1,17 @@
+body{
+    /* background: url(/CSS/images/Purpose.jpg),orangered; */
+    /* background: url(/CSS/images/Purpose.jpg),linear-gradient(45deg,blue,red); */
+
+    background: url(/CSS/images/Purpose.jpg), url(/CSS/images/sky.jfif);
+    background-size: cover;
+    /* background-blend-mode: multiply; */
+    /* background-blend-mode: overlay; */
+    /* background-blend-mode: color; */
+    /* background-blend-mode: hard-light; */
+    /* background-blend-mode: soft-light; */
+    /* background-blend-mode: hue; */
+    /* background-blend-mode: saturation; */
+    /* background-blend-mode: darken; */
+    /* background-blend-mode: exclusion; */
+    /* background-blend-mode: luminosity; */
+}

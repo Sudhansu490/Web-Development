@@ -1,0 +1,37 @@
+:root{
+    --color:rgb(0, 255, 60);
+    --seccolor:rgb(150, 150, 245);
+    --defpad:23px;
+    --defop:0.6;
+} 
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    background-color: var(--color);
+}
+
+.container{
+    background-color: var(--seccolor);
+}
+
+ul{
+    display: flex;
+}
+
+ul li{
+    opacity: var(--defop);
+    list-style-type: none;
+    padding: var(--defpad);
+    border: 2px solid var(--seccolor);
+}
+
+/* Local Variable(Overrides the Global Variable) */
+ul li:first-child{
+    --color:orange;
+    background-color: var(--color,blue)
+    /* If the Variable is not found it uses Blue colour. */
+}

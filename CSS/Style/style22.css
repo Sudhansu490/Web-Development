@@ -1,0 +1,21 @@
+/* @format */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.leftbox{
+    background-color: teal;
+    color: aliceblue;
+    width: 40%;
+    float: left;
+}
+
+.rightbox{
+    background-color: deeppink;
+    color: aliceblue;
+    width: 60%;
+    float: right;
+    /* clear: both; */
+}

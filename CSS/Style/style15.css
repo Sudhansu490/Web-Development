@@ -1,0 +1,98 @@
+.div1{
+    /* background-color: aqua;
+    width: 350px;
+    height: 150px;
+    font-size: 25px;
+    border-width: 10px;
+    border-color: red; */
+    /* border-style: dotted; */
+    /* border-style: solid; */
+    /* border-style: dashed; */
+    /* border-style: double; */
+    /* border-style: outset; */
+    /* border-style: inset; */
+    /* border-style: groove; */
+    /* border-style: ridge; */
+
+    /* border shortcut */
+    /* border: 10px solid yellowgreen; */
+} 
+
+.div2{
+    /* background-color: rgb(7, 252, 60);
+    width: 450px;
+    height: 450px; */
+    /* border-radius: 50%; */
+    /* border: 10px solid rgb(13, 48, 82); */
+}
+
+.div3{
+    /* background-color: rgb(208, 241, 129);
+    width: 250px;
+    height: 250px;
+    border-left: 30px solid rgb(247, 100, 42);
+    border-right: 30px solid rgb(18, 146, 18);
+    border-top: 30px solid rgb(21, 10, 173);
+    border-bottom: 30px solid rgb(207, 26, 147); */
+}
+
+.div4{
+    /* background-color: rgb(243, 222, 222);
+    width: 500px;
+    height: 500px;
+    border-left: 20px solid rgb(247, 100, 42);
+    border-right: 20px solid rgb(18, 146, 18);
+    border-top: 20px solid rgb(21, 10, 173);
+    border-bottom: 20px solid rgb(207, 26, 147);
+    border-radius: 50%; */
+}
+
+.div5{
+    /* background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 500px;
+    border-left: none;
+    border-right: none;
+    border-top: 20px solid rgb(21, 10, 173);
+    border-bottom: 20px solid rgb(207, 26, 147);
+    border-radius: 50%; */
+}
+
+.div6{
+    /* background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 500px;
+    border-left: 20px solid rgb(21, 10, 173);
+    border-right: 20px solid rgb(207, 26, 147);
+    border-radius: 25px; */
+}
+
+.div7{
+    /* background-color: rgb(255, 255, 255);
+    width: 900px;
+    height: 300px;
+    border: 10px solid blueviolet;
+    border-left: 10px solid rgb(247, 100, 42);
+    border-right: 10px solid rgb(18, 146, 18);
+    border-radius: 75px 0px 75px 0px;  */
+    /* border-radius: 25px; */
+}
+
+.div8{
+    /* background-color: rgb(255, 255, 255);
+    width: 600px;
+    height: 400px;
+    border: 20px solid rgb(247, 100, 42); */
+    /* margin: 50px; */
+    /* margin-top: 50px; */
+    /* margin-left: 250px; */
+    /* margin: auto; */
+}
+
+.div9{
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    height: 400px;
+    border: 10px solid rgb(247, 100, 42); 
+    margin: 100px 200px 300px 400px;
+}

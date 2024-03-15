@@ -1,0 +1,23 @@
+/* Links */
+a{
+    display: block;
+    padding: 5px;
+    font-size: 25px;
+} 
+a:visited{
+    color: darkcyan;
+}
+a:link{
+    color: darkgoldenrod;
+}
+a:hover{
+    color: darkmagenta;
+}
+a:active{
+    color: brown;
+}
+
+/* Focus Selector */
+input:focus{
+    background-color: antiquewhite;
+}

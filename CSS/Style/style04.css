@@ -1,0 +1,62 @@
+/* Tag Selector */
+/* p{
+    color: red;
+} */
+/* input::placeholder{
+    color: darksalmon;
+} */
+
+/* Id Selector */
+/* #id1{
+    color: red;
+} */
+
+/* Class Selector */
+/* .c1{
+    color: red;
+} */
+/* .box:first-child{
+    background-color: aqua;
+} */
+/* .box::first-line{
+    color: darkorange;
+} */
+/* .container *{
+    border: 2px solid black;
+} */
+/* .box:nth-child(even){
+    background-color: blueviolet;
+} */
+/* ::selection{
+    color: aqua;
+    background-color: crimson;
+} */
+
+/* Attribute Selector */
+/* input{
+    border: 5px solid red;
+} */
+/* input[type="text"]{
+    border: 5px solid green;
+} */
+/* img[width="110px"]{
+    border: 5px solid rgb(31, 142, 3);
+} */
+
+/* Grouping Selector */
+/* div,p{
+    background-color: rgb(0, 195, 255);
+} */
+
+/* Universal Selector */
+/* *{
+    border: 3px solid rgb(88, 32, 240);
+} */
+
+/* body{
+    color: red;
+} */
+
+/* *{
+    color: rgb(75, 12, 175);
+} */

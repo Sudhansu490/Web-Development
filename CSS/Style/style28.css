@@ -1,0 +1,39 @@
+/* Global Variable Creation */
+:root{
+    --primary-color: brown;
+    --custom-width: 350px;
+}
+
+.container{
+    background-color: beige;
+    height: 650px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Global Variable Accessing */
+.box{
+    background-color: aquamarine;
+    width: var(--custom-width);
+    height: 450px;
+    border: 1px solid var(--primary-color);
+    margin: 5px;
+    padding: 5px;
+    /* box-shadow: 10px 15px green; */
+    /* box-shadow: -10px -15px green; */
+    /* box-shadow: 10px 15px 5px green; */
+    /* box-shadow: 10px 15px 5px 20px green; */
+    /* box-shadow: 10px 15px 5px 10px rgba(8, 8, 171, 0.5); */
+    /* box-shadow: 10px 15px brown inset;  #Inner Shadow */
+    /* box-shadow: 10px 15px green, 15px 8px red; */
+}
+
+#head1{
+    /* text-shadow: 2px 3px 1px whitesmoke; */
+    /* text-shadow: yellowgreen 2px 3px 1px; */
+    /* text-shadow: wheat 2px 3px; */
+    /* text-shadow: 12px 13px; */
+    text-shadow: 2px 3px 1px greenyellow, 3px 2px 2px pink, 3px 3px 3px lightslategray;
+}
